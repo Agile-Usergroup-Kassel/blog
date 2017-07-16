@@ -64,3 +64,22 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+
+#
+####################################
+# Authors
+####################################
+#
+authors:
+  juengling:
+    name: Christoph Jüngling
+    display_name: Christoph Jüngling
+    gravatar: f0cd436cd48026cc2ed582f4133a0f64
+    email: chris@juengling-edv.de
+    web: http://www.juengling-edv.de
+    twitter: chjuengling
+    github: juengling
+  koglin:
+    name: Patrick Koglin
+    web: http://www.team-architekt.de/
+    twitter: patrickkoglin
