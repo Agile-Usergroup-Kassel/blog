@@ -32,6 +32,13 @@ layout: default
       {% assign author = site.owner %}
     {% endif %}
 
+    <!-- Output author details if some exist. -->
+    {% if author %}
+  	  <p>
+        Autor: <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+	  </p>
+    {% endif %}
+
     </header>
 
     {% if post.excerpt %}
