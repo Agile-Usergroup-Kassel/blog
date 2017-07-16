@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+title: Blog
+email: agmks@juengling-edv.de
+description: Agile Usergroup Kassel
+url: https://agile-usergroup-kassel.github.io/blog # the base hostname & protocol for your site
 
 
 #
@@ -14,7 +14,7 @@ url: https://renyuanz.github.io/leonids # the base hostname & protocol for your 
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Berlin
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,25 +33,25 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  name: Agile Usergroup Kassel
+  avatar: agmks_Logo2017_xing.png
+  job: "User Group"
+  bio: ""
+  email: agmks@juengling-edv.de
+  disqus-shortname: agugks
+  twitter: AgileUsrgrpKs #username
+  facebook: 
   google:
-    plus: #username
-    analytics: UA-62251910-2
+    plus: 
+    analytics: 
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
-  xing: #username
+  github: Agile-Usergroup-Kassel #username
+  stackoverflow: 
+  linkedin: 
+  xing: https://www.xing.com/communities/groups/agile-monday-kassel-98ea-1050362 #link
   instagram: #username
   lastfm: #username
   tumblr: #username
