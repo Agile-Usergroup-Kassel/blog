@@ -13,7 +13,7 @@ Der Agile Monday in Kassel feiert im Februar 2016 sein zweijähriges Bestehen. G
 
 Als Wertschätzung gegenüber dem großen Bruder, dem "Agile Monday in Nürnberg", und allen bisherigen Referenten, Teilnehmern und Mitorganisatoren möchten wir uns zunächst bei allen Beteiligten ausdrücklich bedanken und die aktuellen Zahlen der Xing-Gruppen und bisherigen Veranstaltungen hervorheben:
 
-!(metrikenAgileMonday.jpg)
+![Metriken](metrikenAgileMonday.jpg)
 
 Vielen Dank für eure Beteiligung!
 
