@@ -2,6 +2,7 @@
 layout: post
 author: koglin
 title:  "Agile Werte und Eigenschaften dynamischer Höchstleister kennenlernen"
+excerpt: "Der Agile Monday in Kassel feiert im Februar 2016 sein zweijähriges Bestehen. Grund genug, die Startseite aufzufrischen!"
 comments: true
 image:
   feature: happyWorkingPeople.jpg
