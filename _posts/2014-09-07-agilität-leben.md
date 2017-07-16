@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Patrick Koglin"
+author: koglin
 title:  "Agilität leben, üben und daran Spaß haben"
 date:   2014-09-07 19:34:00
 comments: true

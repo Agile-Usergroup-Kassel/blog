@@ -1,5 +1,6 @@
 ---
 layout: post
+author: juengling
 title:  "Herzlich willkommen bei der Agilen Usergroup Kassel!"
 date:   2017-07-16 13:00:00
 comments: true
